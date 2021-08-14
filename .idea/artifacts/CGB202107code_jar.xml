@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CGB202107code:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CGB202107code_jar</output-path>
+    <root id="archive" name="CGB202107code.jar">
+      <element id="module-output" name="CGB202107code" />
+    </root>
+  </artifact>
+</component>

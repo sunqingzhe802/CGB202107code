@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CGB202107code.iml" filepath="$PROJECT_DIR$/CGB202107code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY01/DAY01.iml" filepath="$PROJECT_DIR$/DAY01/DAY01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY07/DAY07.iml" filepath="$PROJECT_DIR$/DAY07/DAY07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY10/DAY10.iml" filepath="$PROJECT_DIR$/DAY10/DAY10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY11/DAY11.iml" filepath="$PROJECT_DIR$/DAY11/DAY11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REVIEW/REVIEW.iml" filepath="$PROJECT_DIR$/REVIEW/REVIEW.iml" />
+    </modules>
+  </component>
+</project>
